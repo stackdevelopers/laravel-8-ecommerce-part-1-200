@@ -95,3 +95,5 @@ Benefits of Stack Developers Premium Membership :-
 - Loyalty badges next to your name in comments and live chat
 
 Join Now : https://www.youtube.com/channel/UCExO2i-tLU1NyVZD6zOJQlw/join
+
+Alternative link to Join (Paypal/Credit/Debit Cards) :- https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-252832103W885352AMCIYQZI
