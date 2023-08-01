@@ -46,13 +46,13 @@ http://sitemakers.in
 
 2) Click on the "STACK DEVELOPERS" link at the top navigation that will take you to the Stack Developers section
 
-3) Click on the "Login to Download" link to download Advance E-commerce Series in Laravel 6/7/8 (Part 1 to 150)
+3) Click on the "Login to Download" link to download Advance E-commerce Series in Laravel 6/7/8 (Part 1 to 200)
 
 4) Enter Username and Password if you have already got it otherwise get one by joining the channel as Premium Member:-
 https://www.youtube.com/channel/UCExO2i-tLU1NyVZD6zOJQlw/join
 (Username/Password will be emailed to you or shared on Social network or Channel Members Community)
 
-5) After login, click on the "Click Here to Download" link to download Advance E-commerce Series in Laravel 6/7/8 (Part 1 to 150).
+5) After login, click on the "Click Here to Download" link to download Advance E-commerce Series in Laravel 6/7/8 (Part 1 to 200).
 
 This time code will get downloaded in zipped format along with the database.
 
@@ -96,4 +96,4 @@ Benefits of Stack Developers Premium Membership :-
 
 Join Now : https://www.youtube.com/channel/UCExO2i-tLU1NyVZD6zOJQlw/join
 
-Alternative link to Join (Paypal/Credit/Debit Cards) :- https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-252832103W885352AMCIYQZI
+Alternative link to Join (Paypal/Credit/Debit Cards): https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-9TB81161GW9540834MSHSD5I
